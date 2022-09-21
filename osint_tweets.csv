@@ -1,0 +1,4 @@
+attachments,author_id,created_at,description,entities,geo,id,index,lang,location,name,possibly_sensitive,public_metrics,source,text,username,verified,istranslated
+{},740989553960452096,2022-09-21T05:45:43.000Z,"Independent Defense Analysis, Submarines, #OSINT, illustrations. Author of Covert Shores books. Write for @USNINews, @navalnewscom and more
+
+Mostly typos.","{'hashtags': [{'start': 49, 'end': 57, 'tag': 'Chinese'}], 'mentions': [{'start': 3, 'end': 16, 'username': 'CovertShores', 'id': '740989553960452096'}]}",{},1572462054958854144,0,en,,H I Sutton,False,"{'retweet_count': 25, 'reply_count': 0, 'like_count': 0, 'quote_count': 0}",Twitter for iPhone,"RT @CovertShores: The now-famous dry dock at the #Chinese Navy base on Hainan, big enough for the new aircraft carriers, is approximately 9…",CovertShores,True,0
